@@ -295,7 +295,7 @@
                     </a>
                 </li>
                 <li class="nav-item  ">
-                    <a href="{{ url('/maps') }}" class="d-flex align-items-center" target="_self">
+                    <a href="{{ url('/maps') }}" class="d-flex align-items-center" target="_Blank">
                         <i data-feather="map-pin"></i>
                         <span class="menu-title text-truncate">Maps</span>
                     </a>
