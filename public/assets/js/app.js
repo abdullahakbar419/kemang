@@ -1,5 +1,5 @@
 var config = {
-    geojson: "http://kemang.test/geojson/Adm_Kemang_FeaturesToJSON.json",
+    geojson: "https://web.fulcrumapp.com/shares/a5c8e07368efde43.geojson",
     title: "Kemang",
     layerName: "UMKM",
     hoverProperty: "species_sim",
