@@ -1,0 +1,670 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.7596382, -6.5250747999999996, 0, null]
+      },
+      "properties": {
+        "FID": 0,
+        "Nama": "BC.KGJ Salabenda",
+        "Jenis": "· Community garden",
+        "Rating": 5,
+        "Review": "(5)",
+        "Alamat": "8.6 km · FQF5+XVC, Jl. Kp. Setu Jl. Salabenda Raya",
+        "Full_Addre": "BC.KGJ Salabenda 8.6 km · FQF5+XVC, Jl. Kp. Setu Jl. Salabenda Raya",
+        "Latitude": -6.5250747999999996,
+        "Longitude": 106.7596382
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.7153533, -6.4972972999999996, 0, null]
+      },
+      "properties": {
+        "FID": 1,
+        "Nama": "Komunitas TITAH DARLING",
+        "Jenis": "· Association or organization",
+        "Rating": 5,
+        "Review": "(3)",
+        "Alamat": "14.1 km · Jalan Pondok Tajul Alawiyyin Pabuaran Poktua",
+        "Full_Addre": "Komunitas TITAH DARLING 14.1 km · Jalan Pondok Tajul Alawiyyin Pabuaran Poktua",
+        "Latitude": -6.4972972999999996,
+        "Longitude": 106.7153533
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.7603239, -6.5408947, 0, null]
+      },
+      "properties": {
+        "FID": 2,
+        "Nama": "JAMPARING ASIH",
+        "Jenis": "· Art center",
+        "Rating": 4.7000000000000002,
+        "Review": "(50)",
+        "Alamat": "7.9 km · Jln Letkol Atang Senjaya Kp.Patambran, RT.03/RW.04",
+        "Full_Addre": "JAMPARING ASIH 7.9 km · Jln Letkol Atang Senjaya Kp.Patambran, RT.03/RW.04",
+        "Latitude": -6.5408947,
+        "Longitude": 106.7603239
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.7295495, -6.4731398000000002, 0, null]
+      },
+      "properties": {
+        "FID": 3,
+        "Nama": "Lembaga Pengembangan Insani Dompet Dhuafa",
+        "Jenis": "· Non-governmental organization",
+        "Rating": 4.7999999999999998,
+        "Review": "(36)",
+        "Alamat": "15.3 km · 42, Jl. Raya Parung No.KM",
+        "Full_Addre": "Lembaga Pengembangan Insani Dompet Dhuafa 15.3 km · 42, Jl. Raya Parung No.KM",
+        "Latitude": -6.4731398000000002,
+        "Longitude": 106.7295495
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.73013589999999, -6.4770259000000001, 0, null]
+      },
+      "properties": {
+        "FID": 4,
+        "Nama": "Kemang KEC",
+        "Jenis": "· Apartment building",
+        "Rating": 4.2999999999999998,
+        "Review": "(3)",
+        "Alamat": "Bogor Regency, West Java",
+        "Full_Addre": "Kemang KEC Bogor Regency, West Java",
+        "Latitude": -6.4770259000000001,
+        "Longitude": 106.73013589999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.74038729999999, -6.4961675000000003, 0, null]
+      },
+      "properties": {
+        "FID": 5,
+        "Nama": "Sanggar Senam D3",
+        "Jenis": "· Professional and hobby associations",
+        "Rating": 5,
+        "Review": "(2)",
+        "Alamat": "12.5 km · Bogor Regency, West Java",
+        "Full_Addre": "Sanggar Senam D3 12.5 km · Bogor Regency, West Java",
+        "Latitude": -6.4961675000000003,
+        "Longitude": 106.74038729999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.7616, -6.5338050000000001, 0, null]
+      },
+      "properties": {
+        "FID": 6,
+        "Nama": "Pura Angkasa Amertha Dharma Jati",
+        "Jenis": "· Hindu temple",
+        "Rating": 4.5,
+        "Review": "(6)",
+        "Alamat": "7.7 km · FQ86+FJH, Jl. Salabenda Raya",
+        "Full_Addre": "Pura Angkasa Amertha Dharma Jati 7.7 km · FQ86+FJH, Jl. Salabenda Raya",
+        "Latitude": -6.5338050000000001,
+        "Longitude": 106.7616
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.7283367, -6.4730514000000001, 0, null]
+      },
+      "properties": {
+        "FID": 7,
+        "Nama": "Zona Madina",
+        "Jenis": "· Non-profit organization",
+        "Rating": 4.7999999999999998,
+        "Review": "(263)",
+        "Alamat": "15.4 km · Jl. Raya Parung KM No.42",
+        "Full_Addre": "Zona Madina 15.4 km · Jl. Raya Parung KM No.42",
+        "Latitude": -6.4730514000000001,
+        "Longitude": 106.7283367
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.7551684, -6.5126359000000003, 0, null]
+      },
+      "properties": {
+        "FID": 8,
+        "Nama": "Kantor Kecamatan Kemang",
+        "Jenis": "· Corporate office",
+        "Rating": 4.0999999999999996,
+        "Review": "(75)",
+        "Alamat": "10.0 km · Jl. Kemang Kiara No.57",
+        "Full_Addre": "Kantor Kecamatan Kemang 10.0 km · Jl. Kemang Kiara No.57",
+        "Latitude": -6.5126359000000003,
+        "Longitude": 106.7551684
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.732062, -6.4836336000000001, 0, null]
+      },
+      "properties": {
+        "FID": 9,
+        "Nama": "Kantor Pemasaran QURANIC RESIDENCE",
+        "Jenis": "· Corporate office",
+        "Rating": 5,
+        "Review": "(2)",
+        "Alamat": "14.1 km · Jl. Raya Bogor-Parung No.17",
+        "Full_Addre": "Kantor Pemasaran QURANIC RESIDENCE 14.1 km · Jl. Raya Bogor-Parung No.17",
+        "Latitude": -6.4836336000000001,
+        "Longitude": 106.732062
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.7577608, -6.5039014999999996, 0, null]
+      },
+      "properties": {
+        "FID": 10,
+        "Nama": "MIS AL FITRIYAH KEMANG",
+        "Jenis": "· School",
+        "Rating": 5,
+        "Review": "(4)",
+        "Alamat": "10.7 km · Jl. Raya Kemang Parung Bogor No.601",
+        "Full_Addre": "MIS AL FITRIYAH KEMANG 10.7 km · Jl. Raya Kemang Parung Bogor No.601",
+        "Latitude": -6.5039014999999996,
+        "Longitude": 106.7577608
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.7433674, -6.5383522000000003, 0, null]
+      },
+      "properties": {
+        "FID": 11,
+        "Nama": "kelinci hias bogor (L.F Rabbit)",
+        "Jenis": "· Ranch",
+        "Rating": 4.2999999999999998,
+        "Review": "(33)",
+        "Alamat": "8.8 km · Jl. Atang Senjaya No.40, RT.02/RW.06",
+        "Full_Addre": "kelinci hias bogor (L.F Rabbit) 8.8 km · Jl. Atang Senjaya No.40, RT.02/RW.06",
+        "Latitude": -6.5383522000000003,
+        "Longitude": 106.7433674
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.7565685, -6.4979892000000001, 0, null]
+      },
+      "properties": {
+        "FID": 12,
+        "Nama": "PAUD, TK, SD Permata",
+        "Jenis": "· Private educational institution",
+        "Rating": 4.7999999999999998,
+        "Review": "(11)",
+        "Alamat": "11.5 km · Jl. Baru Kemang No.1",
+        "Full_Addre": "PAUD, TK, SD Permata 11.5 km · Jl. Baru Kemang No.1",
+        "Latitude": -6.4979892000000001,
+        "Longitude": 106.7565685
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.72881870000001, -6.4732414, 0, null]
+      },
+      "properties": {
+        "FID": 13,
+        "Nama": "Kampung Wisata Djampang",
+        "Jenis": "· Tourist attraction",
+        "Rating": 4.4000000000000004,
+        "Review": "(120)",
+        "Alamat": "15.3 km · Km 42, Desa, Jl. Raya Parung",
+        "Full_Addre": "Kampung Wisata Djampang 15.3 km · Km 42, Desa, Jl. Raya Parung",
+        "Latitude": -6.4732414,
+        "Longitude": 106.72881870000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.7055883, -6.4743960999999999, 0, null]
+      },
+      "properties": {
+        "FID": 14,
+        "Nama": "TELAGA KAHURIPAN BOGOR",
+        "Jenis": "· Gated community",
+        "Rating": 4.5999999999999996,
+        "Review": "(99)",
+        "Alamat": "14.9 km · Jl. Telaga Kahuripan Taman Telaga Kahuripan",
+        "Full_Addre": "TELAGA KAHURIPAN BOGOR 14.9 km · Jl. Telaga Kahuripan Taman Telaga Kahuripan",
+        "Latitude": -6.4743960999999999,
+        "Longitude": 106.7055883
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.74283, -6.5008400000000002, 0, null]
+      },
+      "properties": {
+        "FID": 15,
+        "Nama": "Jl. Kemang Batas",
+        "Jenis": "No reviews · Bus stop",
+        "Rating": 0,
+        "Review": " ",
+        "Alamat": "11.9 km · Bogor Regency, West Java",
+        "Full_Addre": "Jl. Kemang Batas 11.9 km · Bogor Regency, West Java",
+        "Latitude": -6.5008400000000002,
+        "Longitude": 106.74283
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.7298223, -6.4897076, 0, null]
+      },
+      "properties": {
+        "FID": 16,
+        "Nama": "Pondok Pendawa",
+        "Jenis": "· Training centre",
+        "Rating": 4.5999999999999996,
+        "Review": "(71)",
+        "Alamat": "13.6 km · Jl. Parung Hijau Desa Tegal Jampang Hambulu No.2",
+        "Full_Addre": "Pondok Pendawa 13.6 km · Jl. Parung Hijau Desa Tegal Jampang Hambulu No.2",
+        "Latitude": -6.4897076,
+        "Longitude": 106.7298223
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.73927209999999, -6.4902702000000003, 0, null]
+      },
+      "properties": {
+        "FID": 17,
+        "Nama": "Desa Pondok Udik",
+        "Jenis": "· Housing development",
+        "Rating": 4.2000000000000002,
+        "Review": "(87)",
+        "Alamat": "13.1 km · Jl. Raya Parung",
+        "Full_Addre": "Desa Pondok Udik 13.1 km · Jl. Raya Parung",
+        "Latitude": -6.4902702000000003,
+        "Longitude": 106.73927209999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.72897260000001, -6.4759703000000002, 0, null]
+      },
+      "properties": {
+        "FID": 18,
+        "Nama": "SMP PGRI 1, Kemang Parung",
+        "Jenis": "· School",
+        "Rating": 5,
+        "Review": "(7)",
+        "Alamat": "15.1 km · Jl. Mad Nur No.9",
+        "Full_Addre": "SMP PGRI 1, Kemang Parung 15.1 km · Jl. Mad Nur No.9",
+        "Latitude": -6.4759703000000002,
+        "Longitude": 106.72897260000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.71370020000001, -6.4867713, 0, null]
+      },
+      "properties": {
+        "FID": 19,
+        "Nama": "SMPN 1 KEMANG",
+        "Jenis": "· School",
+        "Rating": 4.5999999999999996,
+        "Review": "(11)",
+        "Alamat": "15.1 km · GP77+7FW",
+        "Full_Addre": "SMPN 1 KEMANG 15.1 km · GP77+7FW",
+        "Latitude": -6.4867713,
+        "Longitude": 106.71370020000001
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.734577, -6.4984488000000002, 0, null]
+      },
+      "properties": {
+        "FID": 20,
+        "Nama": "SDN Pabuaran 01 Kemang",
+        "Jenis": "· Bus stop",
+        "Rating": 4.7999999999999998,
+        "Review": "(5)",
+        "Alamat": "12.7 km · Bogor Regency, West Java",
+        "Full_Addre": "SDN Pabuaran 01 Kemang 12.7 km · Bogor Regency, West Java",
+        "Latitude": -6.4984488000000002,
+        "Longitude": 106.734577
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.7025131, -6.4759564999999997, 0, null]
+      },
+      "properties": {
+        "FID": 21,
+        "Nama": "Madania School Bogor",
+        "Jenis": "· School",
+        "Rating": 4.5999999999999996,
+        "Review": "(97)",
+        "Alamat": "16.8 km · Telaga Kahuripan, Bogor",
+        "Full_Addre": "Madania School Bogor 16.8 km · Telaga Kahuripan, Bogor",
+        "Latitude": -6.4759564999999997,
+        "Longitude": 106.7025131
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.7298223, -6.4897076, 0, null]
+      },
+      "properties": {
+        "FID": 22,
+        "Nama": "SMP SMK NUSANTARA MANDIRI",
+        "Jenis": "· Vocational school",
+        "Rating": 4.7999999999999998,
+        "Review": "(26)",
+        "Alamat": "13.6 km · Jl. Parung Hijau Desa Tegal Jampang Hambulu No.2",
+        "Full_Addre": "SMP SMK NUSANTARA MANDIRI 13.6 km · Jl. Parung Hijau Desa Tegal Jampang Hambulu No.2",
+        "Latitude": -6.4897076,
+        "Longitude": 106.7298223
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.75451219999999, -6.5122042999999996, 0, null]
+      },
+      "properties": {
+        "FID": 23,
+        "Nama": "Kantor Desa Kemang",
+        "Jenis": "· Government office",
+        "Rating": 3.2999999999999998,
+        "Review": "(3)",
+        "Alamat": "10.1 km · FQQ3+4R6",
+        "Full_Addre": "Kantor Desa Kemang 10.1 km · FQQ3+4R6",
+        "Latitude": -6.5122042999999996,
+        "Longitude": 106.75451219999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.74973749999999, -6.5307716999999998, 0, null]
+      },
+      "properties": {
+        "FID": 24,
+        "Nama": "Kantor Desa Bojong-Kemang",
+        "Jenis": "· District government office",
+        "Rating": 5,
+        "Review": "(2)",
+        "Alamat": "8.8 km · Jl. Raya Mayor Abd. Rahman No.33, RT.1/RW.1",
+        "Full_Addre": "Kantor Desa Bojong-Kemang 8.8 km · Jl. Raya Mayor Abd. Rahman No.33, RT.1/RW.1",
+        "Latitude": -6.5307716999999998,
+        "Longitude": 106.74973749999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.70931969999999, -6.4796566999999996, 0, null]
+      },
+      "properties": {
+        "FID": 25,
+        "Nama": "Kahuripan Skatepark",
+        "Jenis": "· Skateboard park",
+        "Rating": 4.2000000000000002,
+        "Review": "(211)",
+        "Alamat": "16.0 km · Bogor Regency, West Java",
+        "Full_Addre": "Kahuripan Skatepark 16.0 km · Bogor Regency, West Java",
+        "Latitude": -6.4796566999999996,
+        "Longitude": 106.70931969999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.7231987, -6.5067490000000001, 0, null]
+      },
+      "properties": {
+        "FID": 26,
+        "Nama": "RUMAH KUCING PARUNG (RKP) DITA AGUSTA",
+        "Jenis": "· Animal shelter",
+        "Rating": 4.7000000000000002,
+        "Review": "(337)",
+        "Alamat": "12.8 km · Jalan Pasir Naga,Rt.01 Rw.07,kel.Pabuaran Kec.Kemang",
+        "Full_Addre": "RUMAH KUCING PARUNG (RKP) DITA AGUSTA 12.8 km · Jalan Pasir Naga,Rt.01 Rw.07,kel.Pabuaran Kec.Kemang",
+        "Latitude": -6.5067490000000001,
+        "Longitude": 106.7231987
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.71512439999999, -6.4851856000000003, 0, null]
+      },
+      "properties": {
+        "FID": 27,
+        "Nama": "Smks Citra Bangsa",
+        "Jenis": "· School",
+        "Rating": 5,
+        "Review": "(1)",
+        "Alamat": "15.1 km · Jl. Parung Hijau Desa Tegal Jampang Hambulu No.24",
+        "Full_Addre": "Smks Citra Bangsa 15.1 km · Jl. Parung Hijau Desa Tegal Jampang Hambulu No.24",
+        "Latitude": -6.4851856000000003,
+        "Longitude": 106.71512439999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.70016149999999, -6.4750392999999997, 0, null]
+      },
+      "properties": {
+        "FID": 28,
+        "Nama": "Raddiene",
+        "Jenis": "· Badminton club",
+        "Rating": 4.2999999999999998,
+        "Review": "(46)",
+        "Alamat": "14.6 km · GQP6+37H, Jl. Kampung Sasak, RT.5/RW.2",
+        "Full_Addre": "Raddiene 14.6 km · GQP6+37H, Jl. Kampung Sasak, RT.5/RW.2",
+        "Latitude": -6.4750392999999997,
+        "Longitude": 106.70016149999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.7627221, -6.5317727999999997, 0, null]
+      },
+      "properties": {
+        "FID": 29,
+        "Nama": "Paud Matahari Parakan Jaya",
+        "Jenis": "· School",
+        "Rating": 5,
+        "Review": "(2)",
+        "Alamat": "7.8 km · 06, Jl. Salabenda Kayumanis No.RT 01",
+        "Full_Addre": "Paud Matahari Parakan Jaya 7.8 km · 06, Jl. Salabenda Kayumanis No.RT 01",
+        "Latitude": -6.5317727999999997,
+        "Longitude": 106.7627221
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.753578, -6.5206239000000004, 0, null]
+      },
+      "properties": {
+        "FID": 30,
+        "Nama": "Kolam Renang Tirta Bhadrika",
+        "Jenis": "· Public swimming pool",
+        "Rating": 4.5,
+        "Review": "(345)",
+        "Alamat": "9.4 km · FQH3+QC4",
+        "Full_Addre": "Kolam Renang Tirta Bhadrika 9.4 km · FQH3+QC4",
+        "Latitude": -6.5206239000000004,
+        "Longitude": 106.753578
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.7215709, -6.4861806, 0, null]
+      },
+      "properties": {
+        "FID": 31,
+        "Nama": "SDN Tegal 01",
+        "Jenis": "· School",
+        "Rating": 4.4000000000000004,
+        "Review": "(11)",
+        "Alamat": "14.7 km · Jl. Parung Hijau Desa Tegal Jampang Hambulu No.20",
+        "Full_Addre": "SDN Tegal 01 14.7 km · Jl. Parung Hijau Desa Tegal Jampang Hambulu No.20",
+        "Latitude": -6.4861806,
+        "Longitude": 106.7215709
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.7218541, -6.4999202, 0, null]
+      },
+      "properties": {
+        "FID": 32,
+        "Nama": "SDN PABUARAN 03",
+        "Jenis": "· School",
+        "Rating": 3.7000000000000002,
+        "Review": "(14)",
+        "Alamat": "13.4 km · GP2C+2PQ",
+        "Full_Addre": "SDN PABUARAN 03 13.4 km · GP2C+2PQ",
+        "Latitude": -6.4999202,
+        "Longitude": 106.7218541
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.70037189999999, -6.4810042000000001, 0, null]
+      },
+      "properties": {
+        "FID": 33,
+        "Nama": "Komunitas Pecinta Lingkungan",
+        "Jenis": "· Consumer advice center",
+        "Rating": 5,
+        "Review": "(6)",
+        "Alamat": "16.2 km · Beranda, Jl. Ganesha No.16",
+        "Full_Addre": "Komunitas Pecinta Lingkungan 16.2 km · Beranda, Jl. Ganesha No.16",
+        "Latitude": -6.4810042000000001,
+        "Longitude": 106.70037189999999
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.7596666, -6.5085655999999998, 0, null]
+      },
+      "properties": {
+        "FID": 34,
+        "Nama": "MIS NURUL ATHFAL",
+        "Jenis": "· School",
+        "Rating": 5,
+        "Review": "(1)",
+        "Alamat": "10.2 km · FQR5+HVF, Jl. Parakan Salak",
+        "Full_Addre": "MIS NURUL ATHFAL 10.2 km · FQR5+HVF, Jl. Parakan Salak",
+        "Latitude": -6.5085655999999998,
+        "Longitude": 106.7596666
+      }
+    }
+  ]
+}
